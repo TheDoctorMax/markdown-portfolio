@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# This is one of my skills
+
+**Yelling at stupid people **
+__more yelling__
+*doing funny stuff*
+__writing *funny* text on github__
